@@ -13,3 +13,4 @@ sudo apt update
 
 sudo apt install package(s)
 ```
+![apt get](https://www.vitexsoftware.com/img/thelaststudent.png)
