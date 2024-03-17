@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/5abba9ca-813e-43ac-9b5f-b1cfdf3dc1c7.svg)](https://wakatime.com/@5abba9ca-813e-43ac-9b5f-b1cfdf3dc1c7)
 
 Please copy & paste to your terminal:
 
